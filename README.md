@@ -1,2 +1,2 @@
 # Dados_Conta_Banco
- Ver extrato, sacar e depositar
+ Ver saldo, sacar e depositar
